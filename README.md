@@ -1,3 +1,3 @@
 # newtwork
-someGAN
-first blog for kuma
+Cycle Gan
+for pytorch in windows
